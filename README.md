@@ -10,3 +10,4 @@ Este libro presenta una amplia selección de géneros musicales que transformar�
 ## Índice
 1. [Introducción](introduccion/README.md)
 2. [Hip Hop](hiphop/README.md)
+3. [Jazz](jazz/README.md)
