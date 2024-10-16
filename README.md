@@ -1,7 +1,7 @@
 # Música para hacer aseo
 ## Autor(es)
 - Samuel Torres
-- Daniel Flórez
+- Daniel Florez
 - Jhostyn Guadrón
 
 ## Descripción
@@ -11,3 +11,4 @@ Este libro presenta una amplia selección de géneros musicales que transformar�
 1. [Introducción](introduccion/README.md)
 2. [Hip Hop](hiphop/README.md)
 3. [Jazz](jazz/README.md)
+4. [Rock](rock/README.md)
