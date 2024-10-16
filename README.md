@@ -14,3 +14,4 @@ Este libro presenta una amplia selección de géneros musicales que transformar�
 4. [Rock](rock/README.md)
 5. [Funk](funk/README.md)
 6. [Kpop](kpop/README.md)
+7. [Hyperpop](hyperpop/README.md)
