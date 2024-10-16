@@ -12,3 +12,4 @@ Este libro presenta una amplia selección de géneros musicales que transformar�
 2. [Hip Hop](hiphop/README.md)
 3. [Jazz](jazz/README.md)
 4. [Rock](rock/README.md)
+5. [Funk](funk/README.md)
